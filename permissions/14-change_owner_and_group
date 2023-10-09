@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff $dir $file
+chown -R vincent:staff pwd
